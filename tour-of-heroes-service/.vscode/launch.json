@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TourOfHeroesServiceApplication<tour-of-heroes-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.lolxz.tourofheroesservice.TourOfHeroesServiceApplication",
+            "projectName": "tour-of-heroes-service",
+            "args": ""
+        }
+    ]
+}
